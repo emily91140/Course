@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="20201108_ex5_Poker.cpp" />
+    <ClCompile Include="POKER\POKER.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="POKER\POKER.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

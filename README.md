@@ -1,4 +1,7 @@
 # Course
+
+[![hackmd-github-sync-badge](https://hackmd.io/tO_UqvW-TN26cBjs8TVfWA/badge)](https://hackmd.io/tO_UqvW-TN26cBjs8TVfWA)
+
 [09C350] C++程式設計與資料結構實戰班 李宏儒
 
 上課時間：109/11/1-12/13，週日，9：00-17：00，  
